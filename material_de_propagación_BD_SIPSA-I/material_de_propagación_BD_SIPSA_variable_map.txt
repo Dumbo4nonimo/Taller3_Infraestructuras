@@ -1,0 +1,10 @@
+MAPEO DE VARIABLES: CSV -> SAS XPORT
+==================================================
+MES_ANO    <-  MES_AÑO
+CODIGO_D   <-  CÓDIGO DIVIPOLA
+CODIGO_C   <-  CÓDIGO CPC
+ARTICULO   <-  ARTÍCULO
+CASA_COM   <-  CASA COMERCIAL
+REFERENC   <-  REFERENCIA
+UNIDAD_D   <-  UNIDAD DE MEDIDA
+PRECIO     <-  PRECIO

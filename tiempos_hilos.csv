@@ -1,0 +1,6 @@
+﻿Versión;Hilos;Mediana (s);Aceleración
+Secuencial;1;0,380;1,00
+Concurrente;1;0,394;0,96
+Concurrente;2;0,423;0,90
+Concurrente;4;0,431;0,88
+Concurrente;8;0,422;0,90
